@@ -8,7 +8,7 @@ This repository houses a Django web application for emotion recognition, employi
 
 - Neural network-based emotion recognition.
 - Scikit-learn MLP model trained on the RAVDESS dataset.
-- Django web application for easy user interaction.
+- Django web application for easy user interaction.                     
 - Predict emotions by uploading audio files.
 
 ## How to Use
