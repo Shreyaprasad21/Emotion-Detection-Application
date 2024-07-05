@@ -22,7 +22,7 @@ This is a Django-based web application for emotion classification. The project i
 
     ```bash
     git https://github.com/himankgupta1/Emotion-Classification-Application.git
-    cd Emotion-Classification-Application
+    cd code
     ```
 
 2. Create a virtual environment and activate it:
