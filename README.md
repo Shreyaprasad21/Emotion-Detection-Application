@@ -1,12 +1,10 @@
-# Emotion Classification Django Application
+# Emotion Detection and Classification Django Application
 
 This is a Django-based web application for emotion classification. The project includes a machine learning model for classifying emotions, which is implemented in a Jupyter Notebook.
 
 ## Project Structure
 
-- `mysite` - Contains the Django project files.
-- `Emotion Classification.ipynb` - Jupyter Notebook for emotion classification model training and testing.
-- `LICENSE` - The license for the project.
+- `code` - Contains the Django project files and Jupyter Notebook for emotion classification model training and testing.
 - `README.md` - This file.
 
 ## Requirements
@@ -61,10 +59,6 @@ This is a Django-based web application for emotion classification. The project i
     ```
 
 3. Open your web browser and go to `http://127.0.0.1:8000/home` to see the application running.
-
-## License
-
-This project is licensed under the terms of the MIT license. See the `LICENSE` file for details.
 
 ## Contributing
 
