@@ -15,7 +15,7 @@ This is a Django-based web application for emotion classification. The project i
 - Required Python libraries
 
 ## Installation
-
+  
 1. Clone the repository:
 
     ```bash
