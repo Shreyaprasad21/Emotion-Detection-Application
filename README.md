@@ -1,7 +1,7 @@
 # Emotion Detection and Classification Django Application
 
 This is a Django-based web application for emotion classification. The project includes a machine learning model for classifying emotions, which is implemented in a Jupyter Notebook.
-
+                  
 ## Project Structure
 
 - `code` - Contains the Django project files and Jupyter Notebook for emotion classification model training and testing.           
