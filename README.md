@@ -17,7 +17,7 @@ This is a Django-based web application for emotion classification. The project i
 ## Installation
   
 1. Clone the repository:
-
+    
     ```bash
     https://github.com/Shreyaprasad21/Emotion-Detection-Application.git
     cd code/Emotion Classification.ipynb
