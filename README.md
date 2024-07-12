@@ -8,7 +8,7 @@ This is a Django-based web application for emotion classification. The project i
 - `README.md` - This file.
   
 ## Requirements                    
-                                     
+                                      
 - Python 3.x   
 - Django 3.x (or the version you are using)
 - Jupyter Notebook              
