@@ -12,7 +12,7 @@ This is a Django-based web application for emotion classification. The project i
 - Python 3.x   
 - Django 3.x (or the version you are using)
 - Jupyter Notebook              
-- Required Python libraries
+- Required Python libraries 
                                      
 ## Installation
   
