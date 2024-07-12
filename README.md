@@ -14,7 +14,7 @@ This is a Django-based web application for emotion classification. The project i
 - Jupyter Notebook              
 - Required Python libraries 
                                      
-## Installation
+## Installation 
   
 1. Clone the repository:
     
