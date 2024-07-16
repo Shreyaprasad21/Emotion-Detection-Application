@@ -6,7 +6,7 @@ This is a Django-based web application for emotion classification. The project i
          
 - `code` - Contains the Django project files and Jupyter Notebook for emotion classification model training and testing.           
 - `README.md` - This file.      
-        
+         
 ## Requirements                        
                                                                      
 - Python 3.x     
